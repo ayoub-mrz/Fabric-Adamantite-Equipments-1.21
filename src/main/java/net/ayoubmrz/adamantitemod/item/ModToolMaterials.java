@@ -11,7 +11,7 @@ import java.util.function.Supplier;
 
 public enum ModToolMaterials implements ToolMaterial {
     ADAMANTITE(ModTags.Blocks.INCORRECT_FOR_ADAMANTITE_TOOL,
-            2540, 10.0F, 5.0F, 15, () -> Ingredient.ofItems(ModItems.ADAMANTITE_INGOT));
+            1781, 10.0F, 7.0F, 15, () -> Ingredient.ofItems(ModItems.ADAMANTITE_INGOT));
 
     private final TagKey<Block> inverseTag;
     private final int itemDurability;

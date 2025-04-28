@@ -24,7 +24,7 @@ public class ModPlacedFeatures {
 
         register(context, ADAMANTITE_ORE_PLACED_KEY, configuredFeatures.getOrThrow(ModConfiguredFeatures.ADAMANTITE_ORE_KEY),
                 ModOrePlacement.modifiersWithCount(3,
-                        HeightRangePlacementModifier.trapezoid(YOffset.fixed(-80), YOffset.fixed(10))));
+                        HeightRangePlacementModifier.trapezoid(YOffset.fixed(-80), YOffset.fixed(15))));
 
     }
 

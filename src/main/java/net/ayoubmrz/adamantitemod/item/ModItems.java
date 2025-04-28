@@ -13,7 +13,7 @@ public class ModItems {
 
     public static final Item ADAMANTITE_SWORD = registerItem("adamantite_sword",
             new SwordItem(ModToolMaterials.ADAMANTITE, new Item.Settings()
-                    .attributeModifiers(SwordItem.createAttributeModifiers(ModToolMaterials.ADAMANTITE, 3, -2.4f))));
+                    .attributeModifiers(SwordItem.createAttributeModifiers(ModToolMaterials.ADAMANTITE, 3, -2.2f))));
     public static final Item ADAMANTITE_PICKAXE = registerItem("adamantite_pickaxe",
             new PickaxeItem(ModToolMaterials.ADAMANTITE, new Item.Settings()
                     .attributeModifiers(PickaxeItem.createAttributeModifiers(ModToolMaterials.ADAMANTITE, 1, -2.8f))));
@@ -22,23 +22,23 @@ public class ModItems {
                     .attributeModifiers(ShovelItem.createAttributeModifiers(ModToolMaterials.ADAMANTITE, 1.5f, -3.0f))));
     public static final Item ADAMANTITE_AXE = registerItem("adamantite_axe",
             new AxeItem(ModToolMaterials.ADAMANTITE, new Item.Settings()
-                    .attributeModifiers(AxeItem.createAttributeModifiers(ModToolMaterials.ADAMANTITE, 6, -3.2f))));
+                    .attributeModifiers(AxeItem.createAttributeModifiers(ModToolMaterials.ADAMANTITE, 6, -3f))));
     public static final Item ADAMANTITE_HOE = registerItem("adamantite_hoe",
             new HoeItem(ModToolMaterials.ADAMANTITE, new Item.Settings()
                     .attributeModifiers(HoeItem.createAttributeModifiers(ModToolMaterials.ADAMANTITE, 0, -3f))));
 
     public static final Item ADAMANTITE_HELMET = registerItem("adamantite_helmet",
             new ArmorItem(ModArmorMaterials.ADAMANTITE_ARMOR_MATERIAL, ArmorItem.Type.HELMET, new Item.Settings()
-                    .maxDamage(ArmorItem.Type.HELMET.getMaxDamage(15))));
+                    .maxDamage(ArmorItem.Type.HELMET.getMaxDamage(27))));
     public static final Item ADAMANTITE_CHESTPLATE = registerItem("adamantite_chestplate",
             new ArmorItem(ModArmorMaterials.ADAMANTITE_ARMOR_MATERIAL, ArmorItem.Type.CHESTPLATE, new Item.Settings()
-                    .maxDamage(ArmorItem.Type.CHESTPLATE.getMaxDamage(15))));
+                    .maxDamage(ArmorItem.Type.CHESTPLATE.getMaxDamage(27))));
     public static final Item ADAMANTITE_LEGGINGS = registerItem("adamantite_leggings",
             new ArmorItem(ModArmorMaterials.ADAMANTITE_ARMOR_MATERIAL, ArmorItem.Type.LEGGINGS, new Item.Settings()
-                    .maxDamage(ArmorItem.Type.LEGGINGS.getMaxDamage(15))));
+                    .maxDamage(ArmorItem.Type.LEGGINGS.getMaxDamage(27))));
     public static final Item ADAMANTITE_BOOTS = registerItem("adamantite_boots",
             new ArmorItem(ModArmorMaterials.ADAMANTITE_ARMOR_MATERIAL, ArmorItem.Type.BOOTS, new Item.Settings()
-                    .maxDamage(ArmorItem.Type.BOOTS.getMaxDamage(15))));
+                    .maxDamage(ArmorItem.Type.BOOTS.getMaxDamage(27))));
 
     public static final Item ADAMANTITE_HORSE_ARMOR = registerItem("adamantite_horse_armor",
             new AnimalArmorItem(ModArmorMaterials.ADAMANTITE_ARMOR_MATERIAL, AnimalArmorItem.Type.EQUESTRIAN, false, new Item.Settings().maxCount(1)));
