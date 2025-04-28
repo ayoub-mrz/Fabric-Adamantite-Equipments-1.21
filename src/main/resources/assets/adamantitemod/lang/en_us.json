@@ -1,0 +1,33 @@
+{
+  "item.adamantitemod.adamantite_ingot": "Adamantite Ingot",
+  "item.adamantitemod.raw_adamantite": "Raw Adamantite",
+
+  "item.adamantitemod.adamantite_sword": "Adamantite Sword",
+  "item.adamantitemod.adamantite_pickaxe": "Adamantite Pickaxe",
+  "item.adamantitemod.adamantite_shovel": "Adamantite Shovel",
+  "item.adamantitemod.adamantite_axe": "Adamantite Axe",
+  "item.adamantitemod.adamantite_hoe": "Adamantite Hoe",
+
+  "item.adamantitemod.adamantite_helmet": "Adamantite Helmet",
+  "item.adamantitemod.adamantite_chestplate": "Adamantite Chestplate",
+  "item.adamantitemod.adamantite_leggings": "Adamantite Leggings",
+  "item.adamantitemod.adamantite_boots": "Adamantite Boots",
+
+  "item.adamantitemod.adamantite_horse_armor": "Adamantite Horse Armor",
+
+  "block.adamantitemod.adamantite_block": "Adamantite Block",
+  "block.adamantitemod.raw_adamantite_block": "Raw Adamantite BLock",
+  "block.adamantitemod.adamantite_ore": "Adamantite Ore",
+  "block.adamantitemod.adamantite_deepslate_ore": "Adamantite Deepslate Ore",
+
+  "itemgroup.adamantitemod.adamantite_equipments": "Adamantite Equipments",
+
+  "advancements.adamantitemod.smelt_adamantite.title": "A New Legend Begins",
+  "advancements.adamantitemod.smelt_adamantite.description": "You've surpassed the limits of Netherite. A new era of power begins.",
+
+  "advancements.adamantitemod.adamantite_tools.title": "Age of Power",
+  "advancements.adamantitemod.adamantite_tools.description": "Netherite was just the beginning. Now, true strength is yours.",
+
+  "advancements.adamantitemod.adamantite_armor.title": "The Adamant Vanguard",
+  "advancements.adamantitemod.adamantite_armor.description": "You are the shield that cannot be broken."
+}

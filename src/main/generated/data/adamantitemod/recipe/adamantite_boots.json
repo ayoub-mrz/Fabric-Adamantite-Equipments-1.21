@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "adamantitemod:adamantite_ingot"
+    }
+  },
+  "pattern": [
+    "R R",
+    "R R",
+    "   "
+  ],
+  "result": {
+    "count": 1,
+    "id": "adamantitemod:adamantite_boots"
+  }
+}

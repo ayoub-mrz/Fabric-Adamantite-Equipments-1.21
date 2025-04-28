@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_adamantite_hoe": {
+      "conditions": {
+        "items": [
+          {
+            "items": "adamantitemod:adamantite_hoe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "adamantitemod:adamantite_hoe"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_adamantite_hoe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "adamantitemod:adamantite_hoe"
+    ]
+  }
+}

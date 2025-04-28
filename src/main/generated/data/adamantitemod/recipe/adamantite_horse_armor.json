@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "H": {
+      "item": "minecraft:diamond_horse_armor"
+    },
+    "J": {
+      "item": "adamantitemod:adamantite_block"
+    },
+    "R": {
+      "item": "adamantitemod:adamantite_ingot"
+    }
+  },
+  "pattern": [
+    " R ",
+    "RHR",
+    " J "
+  ],
+  "result": {
+    "count": 1,
+    "id": "adamantitemod:adamantite_horse_armor"
+  }
+}

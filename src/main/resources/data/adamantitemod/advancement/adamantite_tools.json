@@ -1,0 +1,77 @@
+{
+  "parent": "adamantitemod:smelt_adamantite",
+  "criteria": {
+    "adamantite_sword": {
+      "conditions": {
+        "items": [
+          {
+            "items": "adamantitemod:adamantite_sword"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "adamantite_axe": {
+      "conditions": {
+        "items": [
+          {
+            "items": "adamantitemod:adamantite_axe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "adamantite_shovel": {
+      "conditions": {
+        "items": [
+          {
+            "items": "adamantitemod:adamantite_shovel"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "adamantite_pickaxe": {
+      "conditions": {
+        "items": [
+          {
+            "items": "adamantitemod:adamantite_pickaxe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "adamantite_hoe": {
+      "conditions": {
+        "items": [
+          {
+            "items": "adamantitemod:adamantite_hoe"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adamantitemod.adamantite_tools.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "adamantitemod:adamantite_sword"
+    },
+    "title": {
+      "translate": "advancements.adamantitemod.adamantite_tools.title"
+    }
+  },
+  "requirements": [
+    [
+      "adamantite_sword",
+      "adamantite_axe",
+      "adamantite_shovel",
+      "adamantite_pickaxe",
+      "adamantite_hoe"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

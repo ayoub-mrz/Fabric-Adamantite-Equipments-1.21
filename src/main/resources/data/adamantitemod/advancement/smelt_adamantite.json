@@ -1,0 +1,34 @@
+{
+  "criteria": {
+    "adamantite": {
+      "conditions": {
+        "items": [
+          {
+            "items": "adamantitemod:adamantite_ingot"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adamantitemod.smelt_adamantite.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "adamantitemod:adamantite_ingot"
+    },
+    "title": {
+      "translate": "advancements.adamantitemod.smelt_adamantite.title"
+    },
+    "background": "adamantitemod:textures/block/raw_adamantite_block.png",
+    "background": "adamantitemod:textures/gui/advancements/backgrounds/raw_adamantite_block.png"
+  },
+  "requirements": [
+    [
+      "adamantite"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

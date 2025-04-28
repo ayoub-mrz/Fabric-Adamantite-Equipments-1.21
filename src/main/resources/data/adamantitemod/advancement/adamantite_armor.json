@@ -1,0 +1,46 @@
+{
+  "parent": "adamantitemod:adamantite_tools",
+  "criteria": {
+    "adamantite_armor": {
+      "conditions": {
+        "items": [
+          {
+            "items": "adamantitemod:adamantite_helmet"
+          },
+          {
+            "items": "adamantitemod:adamantite_chestplate"
+          },
+          {
+            "items": "adamantitemod:adamantite_leggings"
+          },
+          {
+            "items": "adamantitemod:adamantite_boots"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adamantitemod.adamantite_armor.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "adamantitemod:adamantite_chestplate"
+    },
+    "title": {
+      "translate": "advancements.adamantitemod.adamantite_armor.title"
+    }
+  },
+  "requirements": [
+    [
+      "adamantite_armor"
+    ]
+  ],
+  "rewards": {
+    "experience": 100
+  },
+  "sends_telemetry_event": true
+}

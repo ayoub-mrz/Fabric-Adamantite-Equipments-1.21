@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "adamantitemod:adamantite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "adamantitemod:adamantite_ingot"
+  }
+}
