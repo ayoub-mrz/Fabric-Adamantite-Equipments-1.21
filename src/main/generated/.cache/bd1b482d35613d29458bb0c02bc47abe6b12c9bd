@@ -1,5 +1,5 @@
-// 1.21	2025-04-27T09:28:56.0837986	Adamantite Mod/Block Loot Tables
+// 1.21	2025-04-29T10:39:55.3188971	Adamantite Mod/Block Loot Tables
 da4615a198aa5f85f9d58ff1f053eb593acf02e3 data\adamantitemod\loot_table\blocks\adamantite_ore.json
-c44bb666d1cd6f8ef0559a6996bb6ed345f1732c data\adamantitemod\loot_table\blocks\adamantite_block.json
 7a00301eec1bd47a56e10df5642b53c50e94be13 data\adamantitemod\loot_table\blocks\raw_adamantite_block.json
 0766efeb892c628d452db16bf8a60e7c272657c1 data\adamantitemod\loot_table\blocks\adamantite_deepslate_ore.json
+c44bb666d1cd6f8ef0559a6996bb6ed345f1732c data\adamantitemod\loot_table\blocks\adamantite_block.json

@@ -27,7 +27,7 @@ public class ModConfiguredFeatures {
                 List.of(OreFeatureConfig.createTarget(stoneReplaceables, ModBlocks.ADAMANTITE_ORE.getDefaultState()),
                         OreFeatureConfig.createTarget(deepslateReplaceables, ModBlocks.ADAMANTITE_DEEPSLATE_ORE.getDefaultState()));
 
-        register(context, ADAMANTITE_ORE_KEY, Feature.ORE, new OreFeatureConfig(overworldAdamantiteOres, 4));
+        register(context, ADAMANTITE_ORE_KEY, Feature.ORE, new OreFeatureConfig(overworldAdamantiteOres, 5));
     }
 
     public static RegistryKey<ConfiguredFeature<?, ?>> registerKey(String name) {

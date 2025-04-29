@@ -1,7 +1,7 @@
-// 1.21	2025-04-27T09:28:56.0857972	Adamantite Mod/Tags for minecraft:item
-140c456d54ac2bd0faa70edc60d29a0569ed2ea4 data\minecraft\tags\item\axes.json
-5827d5e5bf43f7477ad347b864daad0781ff8652 data\minecraft\tags\item\trimmable_armor.json
+// 1.21	2025-04-29T10:39:55.323894	Adamantite Mod/Tags for minecraft:item
+e0eb2c0b10c114ff89e022da7c269b6cab876944 data\minecraft\tags\item\swords.json
 f3f3933609cccbaefa387afe2b80f677799b760b data\minecraft\tags\item\shovels.json
 bd9bc30eff7046a11ac0ec09b35056989017e19b data\minecraft\tags\item\hoes.json
-e0eb2c0b10c114ff89e022da7c269b6cab876944 data\minecraft\tags\item\swords.json
+140c456d54ac2bd0faa70edc60d29a0569ed2ea4 data\minecraft\tags\item\axes.json
 2b512f7ad8ffc76592e6fde1c05ea911aea97303 data\minecraft\tags\item\pickaxes.json
+5827d5e5bf43f7477ad347b864daad0781ff8652 data\minecraft\tags\item\trimmable_armor.json
